@@ -1,0 +1,13 @@
+Implimetation of project
+
+1.It should be testNg,Maven project
+2.It should impliment data Driving from excel and DataBase
+3.It should have Reporting Machanism using Extent Reporting
+4.It should Implement MultiThreading
+5.Intilise test using Continous Integration Tool jenkins and Job Scheduling once in a day: in the evening
+6.Code should be maintained in Version Control tool Git.
+
+
+Folder Structure:
+5.Should use Property file for maintaining unique details of project
+6.Should have a Utility class to retrive data from Excel and DB
